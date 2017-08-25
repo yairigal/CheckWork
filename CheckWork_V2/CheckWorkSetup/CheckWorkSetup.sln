@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CheckWorkSetup", "CheckWorkSetup\CheckWorkSetup.vdproj", "{6A6569A1-612F-401B-A1F9-228D5812A97E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A6569A1-612F-401B-A1F9-228D5812A97E}.Debug|Default.ActiveCfg = Debug
+		{6A6569A1-612F-401B-A1F9-228D5812A97E}.Debug|Default.Build.0 = Debug
+		{6A6569A1-612F-401B-A1F9-228D5812A97E}.Release|Default.ActiveCfg = Release
+		{6A6569A1-612F-401B-A1F9-228D5812A97E}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
